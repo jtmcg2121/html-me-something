@@ -1,5 +1,5 @@
 body{
-    background-color: lightcyan;
+    background-color: rgb(198, 201, 190);
     font-family: sans-serif;
 }
 h1{
@@ -19,6 +19,37 @@ p{
 h3{
    font-size: 20b;
 }
-#Jacksonville{
-    color: green
+#jacksonville{
+    color:rgb(156, 113, 4)
+}
+#newYorkJ{
+    color:rgb(40, 63, 0)
+}
+#miami{
+    color:rgb(6, 179, 170)
+}
+#atlanta{
+    color:darkred
+}
+#cincinnati{
+    color:rgb(184, 49, 0)
+}
+#philadelphia{
+    color:green
+}
+#detroit{
+    color:rgb(78, 78, 243)
+}
+#carolina{
+    color:rgb(5, 122, 168)
+}
+#denver{
+    color:rgb(1, 1, 54)
+}
+#dallas{
+    color:blue
+}
+.why{
+    color:white;
+    background-color: rgb(63, 63, 63);
 }
